@@ -4,7 +4,7 @@ int main() {
     int studentID; 
     int completedLabs, totalLabs; 
     float quizMarks, assignmentMarks, projectMarks; 
-    float labPercentage, academicScore; printf("Enter student name: "); 
+    float labPercentage, academicScore; printf("Enter name: "); 
     scanf(" %[^\n]", studentName); 
     printf("Enter student ID: "); 
     scanf("%d", &studentID); 
